@@ -33,6 +33,11 @@ He/Him
 
 🔗 [GitHub Repo →](https://github.com/dako-23/React-JS)
 
+#### [🌿 New Style Garden](https://newstylegarden.com/)
+> A modern, static React website for showcasing landscaping and green area maintenance services.
+
+🔗 [GitHub Repo →](https://github.com/dako-23/New-Style-Garden)
+
 ---
 
 ### 📫 How to reach me:
