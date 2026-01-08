@@ -6,11 +6,14 @@
  🔗 [Repo →](https://github.com/dako-23/React-JS)
 
  • Full-stack JavaScript developer
+ 
  • Experience building real-world web applications and internal tools  
+ 
  • Strong focus on clean code, automation and scalability  
+ 
  • Hands-on with Docker, Terraform, CI/CD and cloud infrastructure  
+ 
  • Comfortable working across frontend, backend and DevOps
----
 
 ### 📌 Featured Project
 #### [🚗 Zakmetal](https://zakmetal-6de22.web.app/)
