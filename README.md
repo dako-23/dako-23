@@ -62,6 +62,8 @@
 - Email: [iordan.megaparts@gmail.com](mailto:iordan.megaparts@gmail.com)
 - LinkedIn: [@Yordan Grigorov](https://www.linkedin.com/in/yordan-grigorov-5265ba282/)
 
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dako-23&show_icons=true&theme=tokyonight)
