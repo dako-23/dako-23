@@ -1,9 +1,10 @@
 # 👋 Hey there, I'm @dako-23
 ---
 ### 🧑‍💻 About me
- • 🏆 1st place Software University React JS - February 2025 
- • [👩‍👧 Momma's Gang](https://dako23.web.app/)
+ ####🏆 1st place Software University React JS - February 2025 
+  > [👩‍👧 Momma's Gang](https://dako23.web.app/)
  🔗 [Repo →](https://github.com/dako-23/React-JS)
+
  • Full-stack JavaScript developer
  • Experience building real-world web applications and internal tools  
  • Strong focus on clean code, automation and scalability  
@@ -14,6 +15,8 @@
 ### 📌 Featured Project
 #### [🚗 Zakmetal](https://zakmetal-6de22.web.app/)
 > Single-page application presenting car scrapping services, pricing info and a contact form.
+
+🔗 [Repo →](https://github.com/dako-23/Zakmetal-Astro)
 
 #### 💲 Mega AI Price Generator
 > Browser automation script for auto part price generation using OpenAI and external market APIs.
