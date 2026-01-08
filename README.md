@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm @dako-23
 ---
 ### 🧑‍💻 About me
- ####🏆 1st place Software University React JS - February 2025 
+ #### 🏆 1st place Software University React JS - February 2025 
   > [👩‍👧 Momma's Gang](https://dako23.web.app/)
  🔗 [Repo →](https://github.com/dako-23/React-JS)
 
@@ -10,7 +10,7 @@
  • Strong focus on clean code, automation and scalability  
  • Hands-on with Docker, Terraform, CI/CD and cloud infrastructure  
  • Comfortable working across frontend, backend and DevOps
-
+---
 
 ### 📌 Featured Project
 #### [🚗 Zakmetal](https://zakmetal-6de22.web.app/)
