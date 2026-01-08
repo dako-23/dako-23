@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm @dako-23
 ---
-###🧑‍💻 About me
- 🏆 1st place Software University React JS - February 2025 
- [👩‍👧 Momma's Gang](https://dako23.web.app/)
+### 🧑‍💻 About me
+ • 🏆 1st place Software University React JS - February 2025 
+ • [👩‍👧 Momma's Gang](https://dako23.web.app/)
  🔗 [Repo →](https://github.com/dako-23/React-JS)
  • Full-stack JavaScript developer
  • Experience building real-world web applications and internal tools  
@@ -29,7 +29,7 @@
 > A modern, static React website for showcasing landscaping and green area maintenance services.
 
 🔗 [Repo →](https://github.com/dako-23/New-Style-Garden)
----
+
 ## </> Languages and Tools
 
 <p align="left">
