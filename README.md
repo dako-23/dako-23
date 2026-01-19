@@ -15,6 +15,10 @@
  
  • Comfortable working across frontend, backend and DevOps
 
+ #### 📚 Education
+
+ • Software University (2023 - 2025) -  <a href="https://softuni.bg/certificates/details/256068/dd4bc137" target="_blank">Professional degree in Software Engineering</a>
+
 ### 📌 Featured Project
 #### [🚗 Zakmetal](https://zakmetal-6de22.web.app/)
 > Single-page application presenting car scrapping services, pricing info and a contact form.
